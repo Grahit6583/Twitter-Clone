@@ -1,4 +1,4 @@
-# Django Twitter Clone by Bhavika saini
+# Django Twitter Clone by Grahit Goyal
 Fully functional Django App that looks ecxatly like real Twitter.
 
 ## Setup
